@@ -1,0 +1,15 @@
+body {
+    background-color: cornflowerblue;
+}
+.content {
+    background-color: white;
+    width: 1000px;
+    margin: auto;
+}
+.content-title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    color: red;
+    padding: 10px;
+}
